@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hello World! 💫
+I am Pablo Álvarez Rodríguez, PARCB.
+I am currently working as a Scientific Services Technician and I am learning a whole lot of programming and coding, mostly in Python and R.
+I have worked with MATLAB and LaTeX too.
+This is my personal repository, maybe there would be new things here... 😁
+- 📝 I am currently preparing for my state exams for Weather Observer in AEMet.
+- 📫 How to reach me: www.linkedin.com/in/parcb
 <!--
 **PAR-CB/par-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
