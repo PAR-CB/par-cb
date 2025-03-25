@@ -4,7 +4,7 @@ I am currently working as a Scientific Services Technician and I am learning a w
 I have worked with MATLAB and LaTeX too.
 This is my personal repository, maybe there would be new things here... 😁
 - 📝 I am currently preparing for my state exams for Weather Observer in AEMet.
-- 📫 How to reach me: www.linkedin.com/in/parcb
+- 📫 How to reach me: www.linkedin.com/in/parcb There you will also find my CV and more things!
 <!--
 **PAR-CB/par-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
